@@ -19,4 +19,7 @@ REG NO:212223220101
 ## SEQUENCE DIAGRAM:
 ![SEQUENCE DIAGRAM](https://github.com/user-attachments/assets/a33f18cf-3970-49a1-a19a-21036740298c)
 
+## RESULT:
+
+The UML diagrams for Railway reservation system are successfully created using star uml tooL.
 
